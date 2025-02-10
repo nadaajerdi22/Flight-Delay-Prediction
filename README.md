@@ -1,2 +1,3 @@
-# Flight-Delay-Prediction
-Utiliser des données historiques pour prédire si un vol sera retardé ou à l'heure     Outils utilisés: Python, Jupyter notebook    Analyse et prétraitement des données avec Pandas &amp; Scikit-learn    Création d’un réseau de neurones MLP avec TensorFlow &amp; Keras      Optimisation avec Dropout &amp; Adam Optimizer
+# ✈️ Flight Delay Prediction Using Machine Learning 📊
+
+This project aims to predict flight delays ⏳ using machine learning 🤖 by analyzing historical flight data, including airline, departure time, flight duration, and airport locations 🏢. Built with Python 🐍 and libraries like Pandas, NumPy, and Scikit-learn, it utilizes a Decision Tree Regressor 🌳 to identify key factors affecting delays. The workflow includes data preprocessing 🛠️, exploratory data analysis (EDA) 📈, feature selection, and model evaluation 🎯. Insights from this project help airlines and passengers make better decisions, with future enhancements such as deep learning models 🧠 and real-time data integration 🌍 for improved accuracy. 🚀
